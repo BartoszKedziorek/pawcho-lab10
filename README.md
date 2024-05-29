@@ -31,10 +31,10 @@
 *Rys 9. Potwierdzenie zapisywania logów w podkatalogach katalogu lab10*
 
 ![image](https://github.com/BartoszKedziorek/pawcho-lab10/assets/104023013/8fbed011-cd4e-4e1f-9a06-3432c4b9723c)<br />
-*Rys 9. Przykładowa zawartość logów*
+*Rys 10. Przykładowa zawartość logów*
 
 ![image](https://github.com/BartoszKedziorek/pawcho-lab10/assets/104023013/7092a50e-c30a-4c5b-8eaf-fa820d920748)<br />
-*Rys 10. Potwierdzenie dostępu typu "read-only" dla wolumenu*
+*Rys 11. Potwierdzenie dostępu typu "read-only" dla wolumenu*
 
 
 
